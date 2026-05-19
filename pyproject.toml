@@ -35,7 +35,7 @@ dev = [
   "hypothesis>=6,<7",
   "mkdocs>=1.6,<2",
   "mkdocs-material>=9.5,<10",
-  "pytest>=8,<9",
+  "pytest>=8,<10",
   "ruff>=0.6,<1",
 ]
 
